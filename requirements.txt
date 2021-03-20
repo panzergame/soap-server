@@ -1,2 +1,3 @@
 Spyne
 Lxml
+py-money
